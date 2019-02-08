@@ -5,4 +5,4 @@ Test project to set up Travis
 
 [![CircleCI](https://circleci.com/gh/guillaumemillot/hello_travis/tree/branch-2.svg?style=svg)](https://circleci.com/gh/guillaumemillot/hello_travis/tree/branch-2)
 
-[![CircleCI](https://circleci.com/gh/guillaumemillot/hello_travis/tree/master.svg?style=svg)](https://circleci.com/gh/guillaumemillot/hello_travis/tree/master)
+[![CircleCI](https://circleci.com/gh/guillaumemillot/hello_travis_2/tree/master.svg?style=svg)](https://circleci.com/gh/guillaumemillot/hello_travis_2/tree/master)
